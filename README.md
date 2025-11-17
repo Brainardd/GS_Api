@@ -69,4 +69,4 @@ run_multi_scraper("YourLocation")
 
 - The script will **append** new results to the existing CSV file while avoiding duplicates.
 - Only basic job details are printed in the console. The full description is saved in the CSV.
-- Make sure to respect API usage limits (free plans have request limits).
+- Make sure to respect API usage limits (free plans have request limits)..
